@@ -717,3 +717,13 @@ h3 {
   justify-content: center;
   margin:
 }
+
+.page {
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer {
+  margin-top: auto;
+}
